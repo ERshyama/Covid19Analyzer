@@ -40,4 +40,5 @@ Historical COVID-19 data is from Data on COVID-19 by Our World in Data, World He
 We have a video introducing our project as well as a slide deck, these can be found on the links below - 
 
 [Slide Deck](Covid_19_Project_Final_Presentation.pptx)
+
 [Video Presentation](https://drive.google.com/file/d/1itxnQi4auBkjcSv6UDD2dXhv6tYjXcCN/view?usp=sharing)
