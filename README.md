@@ -35,3 +35,9 @@ Historical COVID-19 data is from Data on COVID-19 by Our World in Data, World He
   5.	Explore the data model with the effect of vaccination over time, Pearson's Correlation Heatmap, and COVID-19 statistics to forecast mortality rates in different regions.
   6.	Generate predictions using the trained models and interpret the results.
      
+#### Other Artifacts
+
+We have a video introducing our project as well as a slide deck, these can be found on the links below - 
+
+[Slide Deck](Covid_19_Project_Final_Presentation.pptx)
+[Video Presentation](https://drive.google.com/file/d/1itxnQi4auBkjcSv6UDD2dXhv6tYjXcCN/view?usp=sharing)
